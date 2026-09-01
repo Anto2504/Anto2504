@@ -56,6 +56,7 @@ Este GitHub funciona como una muestra técnica de mi evolución como desarrollad
 
 - 📧 **Email:** aromy2503@hotmail.es
 - 💼 **GitHub:** https://github.com/Anto2504
+- 💼 **Linkedin** www.linkedin.com/in/antonio-trujillo-pardo
 
 ---
 
